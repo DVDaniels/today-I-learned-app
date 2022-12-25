@@ -18,7 +18,7 @@
   display: none !important;
 }
 
-.container {
+#root {
   max-width: 1300px;
   margin: 0 auto;
 }
